@@ -1,0 +1,22 @@
+# MATLAB/Simulink temporary files
+*.asv
+*.autosave
+*.bak
+*.mex*
+*.slx.bak
+*.slxc
+*.sldd.bak
+*.p
+
+# MATLAB generated files
+slprj/
+_Simulink_Cache_/
+
+# MATLAB crash log
+matlab_crash_dump.*
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
